@@ -11,8 +11,9 @@
     "core-js": "^2.6.5",
     "qs": "^6.7.0",
     "vue": "^2.6.10",
-    "vue-router": "^3.0.3",
-    "vuex": "^3.0.1"
+    "vue-awesome-swiper": "^2.6.7",
+    "vue-router": "^3.0.7",
+    "vuex": "^3.1.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.9.0",
@@ -29,5 +30,18 @@
   "browserslist": [
     "> 1%",
     "last 2 versions"
-  ]
+  ],
+  "description": "vue-router\r     Vuex\r     axios 二次封装\r     路由守卫\r     路由懒加载\r     JS组件封装\r     UI组件封装\r     图片懒加载\r     本地存储(localStorage sessionStorage)\r     better-scroll\r     swiper\r     Token验证\r     vue-loader",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alley88/BK1910VUE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alley88/BK1910VUE/issues"
+  },
+  "homepage": "https://github.com/alley88/BK1910VUE#readme"
 }

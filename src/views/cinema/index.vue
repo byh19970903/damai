@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="w">
         
     </div>
 </template>
@@ -13,5 +13,9 @@ export default {
 
 
 <style>
-    
+    .w{
+        height: 100px;
+        width: 100px;
+        background-color: red;
+    }
 </style>
